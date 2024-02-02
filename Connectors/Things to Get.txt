@@ -1,0 +1,4 @@
+Python and gspread, clasp, the gui one for balance entry
+
+MongoDB Connectors - the HTTP connectors for realm
+
