@@ -32,8 +32,8 @@ def update_balances(account_balances):
         for row in rows:
             if row['Account'] in account_balances:
                 row['Balance'] = account_balances[row['Account']]
-                row['Updated Date'] = current_date
-                row['Updated Time'] = current_time
+                row['Date'] = current_date
+                row['Time'] = current_time
                 updated = True
     
     if updated:
