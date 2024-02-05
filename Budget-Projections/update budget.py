@@ -21,8 +21,8 @@ scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/au
 creds = ServiceAccountCredentials.from_json_keyfile_name('accountinator1.json', scope)
 gc = gspread.authorize(creds)
 
-sh = gc.open('Your Spreadsheet Name')
-worksheet = sh.worksheet('Your Worksheet Name')
+sh = gc.open('Test of Budget and Projections Foundation')
+worksheet = sh.worksheet('Transaction Ontology')
 
 # Assuming your categories start at row 2 and the months are in columns starting from column 8 (Jan)
 categories = worksheet.col_values(1)[1:]  # Skip header row
