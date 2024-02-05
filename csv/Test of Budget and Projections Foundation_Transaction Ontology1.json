@@ -1,3 +1,4 @@
+[
 {"Category":"Airport","Group":"Travel","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""}
 {"Category":"Alcohol & Bars","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""}
 {"Category":"Amazon","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""}
@@ -130,3 +131,4 @@
 {"Category":"Automotive Maintenence","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""}
 {"Category":"Cell Phone","Group":"Cellphone","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""}
 {"Category":"Car Licensing","Group":"","Type":"","Cashflow Type":"","Budget":"","Timing":""}
+]
