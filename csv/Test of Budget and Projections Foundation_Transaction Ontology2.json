@@ -1,1 +1,1107 @@
-[{"Category":"Airport","Group":"Travel","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Alcohol & Bars","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Amazon","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Amplio","Group":"Work","Type":"Income","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Amplio Digital","Group":"Work","Type":"Income","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Art","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"ATM","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Auto","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Auto & Car","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Cash Infusions","Group":"Deposit to Checking","Type":"Income","Cashflow Type":"Financing Activities","Budget":"Discretionary","Timing":""},{"Category":"Cash Withdrawal","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Clothing","Group":"Clothing","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Cloud Computing","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Coffee Shops","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Concert","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Coors Field","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Data","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Delivery","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Dry Cleaning","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Electric","Group":"Utilities","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Entertainment","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"etsy.com","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Fast Casual","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Fast Food","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Fine","Group":"Debt","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Gas","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Glasses","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Groceries","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Gym","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Health Insurance","Group":"Insurance","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Hospital","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Hotel","Group":"Travel","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Imaging","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Insight Global","Group":"Work","Type":"Income","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Insurance","Group":"Insurance","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Internet","Group":"Utilities","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Securities Purchase","Group":"Purchase","Type":"Expense","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"IRS","Group":"Income","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Mail","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Medicine\/Vitamins","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Movie","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Newspaper","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Paypal","Group":"Transfer","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Pharmacy","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Pizza","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Psychologist","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Rent","Group":"Rent","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Rental Car & Taxi","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Restaurants","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Shopping","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Ski","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"","Timing":""},{"Category":"Snacks","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Something","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Streaming","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Technology","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Tolls","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Transfer","Group":"Transfer","Type":"Income","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Trust","Group":"Deposit to Checking","Type":"Income","Cashflow Type":"Financing Activities","Budget":"Discretionary","Timing":""},{"Category":"Unknown","Group":"Transfer","Type":"Income","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Venmo","Group":"Debt","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Sovrn Holdings","Group":"Work","Type":"Income","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Target","Group":"Work","Type":"Income","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Apple Card Payment","Group":"Credit Card","Type":"Expense","Cashflow Type":"Financing Activities","Budget":"Discretionary","Timing":""},{"Category":"Amazon Store Card Payment","Group":"Credit Card","Type":"Expense","Cashflow Type":"Financing Activities","Budget":"Discretionary","Timing":""},{"Category":"Match","Group":"Match","Type":"Income","Cashflow Type":"Financing Activities","Budget":"Discretionary","Timing":""},{"Category":"Kitchen","Group":"Kitchen","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Apparel","Group":"Clothing","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Health and Beauty","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Sports","Group":"Clothing","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Electronics","Group":"Electronics","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Personal Computers","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Wireless Phone Accessories","Group":"Electronics","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Office Product","Group":"Office","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Eyewear","Group":"Clothing","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Shoes","Group":"Clothing","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Hardcover","Group":"Reading","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Parking","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Storage","Group":"Storage","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Donations","Group":"Charity","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Dividends","Group":"Dividends","Type":"Income","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Monthly Interest","Group":"Interest","Type":"Income","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Insured Deposits","Group":"Insured Deposits","Type":"Income","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Investing Withdrawal","Group":"Withdrawal","Type":"Expense","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Investing Deposit","Group":"Deposit","Type":"Income","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Fiverr","Group":"Third Party Expert Work","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Health Equipment","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Organization Equipment","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Hygene","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Automobile Sale","Group":"Car","Type":"Income","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Securities Sale","Group":"Securities Sale","Type":"Income","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Automobile Purchase","Group":"Automobile Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Doctor","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Furniture","Group":"Furniture","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Tax Payments","Group":"Tax","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Tax Rebates","Group":"Tax","Type":"Income","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Outerwear","Group":"Clothing","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Gym Wear","Group":"Clothing","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Home","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Bedding","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Smart Home","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Third Party Work","Group":"Third Party Expert Work","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Christmas","Group":"Personal","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Tests","Group":"Work","Type":"Expense","Cashflow Type":"Investing Activities","Budget":"Discretionary","Timing":""},{"Category":"Medical Test","Group":"Health","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Gifts","Group":"Gifts","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Dating App","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Household","Group":"Household","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Speeding Ticket","Group":"Legal Fee","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Tools","Group":"Tools & Home Improvement","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Hardware","Group":"Tools & Home Improvement","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Cleaning Tools","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Batteries","Group":"Electrical","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Lightbulbs","Group":"Electrical","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Gym Equipment","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Music Equipment","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Cloud Services","Group":"Applications","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Reading","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Books","Group":"Reading","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Fasteners","Group":"Tools & Home Improvement","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Cables","Group":"Tools & Home Improvement","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Tools & Hardware","Group":"Equipment Purchase","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Software Services","Group":"Applications","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Car Wash","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Gaming","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Aviation Equipment","Group":"Aviation","Type":"Expense","Cashflow Type":"Fixed Asset Activities","Budget":"Discretionary","Timing":""},{"Category":"Streaming Services","Group":"Lifestyle","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Nicotine","Group":"Food","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Discretionary","Timing":""},{"Category":"Automotive Insurance","Group":"Insurance","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Automotive Repair & Improvements","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Automotive Maintenence","Group":"Car","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Cell Phone","Group":"Cellphone","Type":"Expense","Cashflow Type":"Operating Activities","Budget":"Non-Discretionary","Timing":""},{"Category":"Car Licensing","Group":"","Type":"","Cashflow Type":"","Budget":"","Timing":""}]
+[
+    {
+        "Category": "Airport",
+        "Group": "Travel",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Alcohol & Bars",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Amazon",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Amplio",
+        "Group": "Work",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Amplio Digital",
+        "Group": "Work",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Art",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "ATM",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Auto",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Auto & Car",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Cash Infusions",
+        "Group": "Deposit to Checking",
+        "Type": "Income",
+        "Cashflow Type": "Financing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Cash Withdrawal",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Clothing",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Cloud Computing",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Coffee Shops",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Concert",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Coors Field",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Data",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Delivery",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Dry Cleaning",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Electric",
+        "Group": "Utilities",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Entertainment",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "etsy.com",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Fast Casual",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Fast Food",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Fine",
+        "Group": "Debt",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Gas",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Glasses",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Groceries",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Gym",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Health Insurance",
+        "Group": "Insurance",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Hospital",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Hotel",
+        "Group": "Travel",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Imaging",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Insight Global",
+        "Group": "Work",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Insurance",
+        "Group": "Insurance",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Internet",
+        "Group": "Utilities",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Securities Purchase",
+        "Group": "Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "IRS",
+        "Group": "Income",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Mail",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Medicine/Vitamins",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Movie",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Newspaper",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Paypal",
+        "Group": "Transfer",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Pharmacy",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Pizza",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Psychologist",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Rent",
+        "Group": "Rent",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Rental Car & Taxi",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Restaurants",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Shopping",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Ski",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Snacks",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Something",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Streaming",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Technology",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Tolls",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Transfer",
+        "Group": "Transfer",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Trust",
+        "Group": "Deposit to Checking",
+        "Type": "Income",
+        "Cashflow Type": "Financing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Unknown",
+        "Group": "Transfer",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Venmo",
+        "Group": "Debt",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Sovrn Holdings",
+        "Group": "Work",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Target",
+        "Group": "Work",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Apple Card Payment",
+        "Group": "Credit Card",
+        "Type": "Expense",
+        "Cashflow Type": "Financing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Amazon Store Card Payment",
+        "Group": "Credit Card",
+        "Type": "Expense",
+        "Cashflow Type": "Financing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Match",
+        "Group": "Match",
+        "Type": "Income",
+        "Cashflow Type": "Financing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Kitchen",
+        "Group": "Kitchen",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Apparel",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Health and Beauty",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Sports",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Electronics",
+        "Group": "Electronics",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Personal Computers",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Wireless Phone Accessories",
+        "Group": "Electronics",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Office Product",
+        "Group": "Office",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Eyewear",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Shoes",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Hardcover",
+        "Group": "Reading",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Parking",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Storage",
+        "Group": "Storage",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Donations",
+        "Group": "Charity",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Dividends",
+        "Group": "Dividends",
+        "Type": "Income",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Monthly Interest",
+        "Group": "Interest",
+        "Type": "Income",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Insured Deposits",
+        "Group": "Insured Deposits",
+        "Type": "Income",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Investing Withdrawal",
+        "Group": "Withdrawal",
+        "Type": "Expense",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Investing Deposit",
+        "Group": "Deposit",
+        "Type": "Income",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Fiverr",
+        "Group": "Third Party Expert Work",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Health Equipment",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Organization Equipment",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Hygene",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Automobile Sale",
+        "Group": "Car",
+        "Type": "Income",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Securities Sale",
+        "Group": "Securities Sale",
+        "Type": "Income",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Automobile Purchase",
+        "Group": "Automobile Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Doctor",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Furniture",
+        "Group": "Furniture",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Tax Payments",
+        "Group": "Tax",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Tax Rebates",
+        "Group": "Tax",
+        "Type": "Income",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Outerwear",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Gym Wear",
+        "Group": "Clothing",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Home",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Bedding",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Smart Home",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Third Party Work",
+        "Group": "Third Party Expert Work",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Christmas",
+        "Group": "Personal",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Tests",
+        "Group": "Work",
+        "Type": "Expense",
+        "Cashflow Type": "Investing Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Medical Test",
+        "Group": "Health",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Gifts",
+        "Group": "Gifts",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Dating App",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Household",
+        "Group": "Household",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Speeding Ticket",
+        "Group": "Legal Fee",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Tools",
+        "Group": "Tools & Home Improvement",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Hardware",
+        "Group": "Tools & Home Improvement",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Cleaning Tools",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Batteries",
+        "Group": "Electrical",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Lightbulbs",
+        "Group": "Electrical",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Gym Equipment",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Music Equipment",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Cloud Services",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Reading",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Books",
+        "Group": "Reading",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Fasteners",
+        "Group": "Tools & Home Improvement",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Cables",
+        "Group": "Tools & Home Improvement",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Tools & Hardware",
+        "Group": "Equipment Purchase",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Software Services",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Car Wash",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Gaming",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Aviation Equipment",
+        "Group": "Aviation",
+        "Type": "Expense",
+        "Cashflow Type": "Fixed Asset Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Streaming Services",
+        "Group": "Lifestyle",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Nicotine",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Automotive Insurance",
+        "Group": "Insurance",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Automotive Repair & Improvements",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Automotive Maintenence",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Cell Phone",
+        "Group": "Cellphone",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary",
+        "Timing": ""
+    },
+    {
+        "Category": "Car Licensing",
+        "Group": "",
+        "Type": "",
+        "Cashflow Type": "",
+        "Budget": "",
+        "Timing": ""
+    },
+    {
+        "Category": "Test",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Discretionary": "Discretionary"
+    },
+    {
+        "Category": "Tinder",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Discretionary": "Discretionary"
+    },
+    {
+        "Category": "Bumble",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Discretionary": "Discretionary"
+    },
+    {
+        "Category": "Little Debbies",
+        "Group": "Food",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Discretionary": "Discretionary"
+    },
+    {
+        "Category": "LALA",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary"
+    },
+    {
+        "Category": "Eaters",
+        "Group": "Applications",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary"
+    },
+    {
+        "Category": "Poop Pals",
+        "Group": "Credit Card",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary"
+    }
+]

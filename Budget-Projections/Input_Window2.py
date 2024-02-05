@@ -1,6 +1,11 @@
+import os
 import tkinter as tk
 from tkinter import ttk, messagebox
 import json
+
+# Use os.path.join for constructing file paths to ensure OS compatibility
+# Get the current user's home directory
+user_home_dir = os.path.expanduser('~')
 
 # Predefined options for the dropdown menus (sorted for user convenience)
 GROUP_OPTIONS = sorted([
@@ -19,7 +24,7 @@ CASHFLOW_TYPE_OPTIONS = ['Operating Activities', 'Investing Activities', 'Financ
 DISCRETIONARY_OPTIONS = ['Discretionary', 'Non-Discretionary']
 
 # Path to the JSON file
-json_file_path = 'C:\\Users\\chris\\Github\\Accountinator\\csv\\Test of Budget and Projections Foundation_Transaction Ontology2.json'
+json_file_path = os.path.join(user_home_dir, 'Github', 'Accountinator', 'csv', 'Test of Budget and Projections Foundation_Transaction Ontology2.json')
 
 def load_json():
     try:

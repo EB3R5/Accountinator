@@ -1,7 +1,11 @@
-import tkinter as tk
-from tkinter import ttk, messagebox, filedialog
-import json
 import os
+import tkinter as tk
+from tkinter import ttk, messagebox
+import json
+
+# Use os.path.join for constructing file paths to ensure OS compatibility
+# Get the current user's home directory
+user_home_dir = os.path.expanduser('~')
 
 # Predefined options for the dropdown menus (sorted for user convenience)
 GROUP_OPTIONS = sorted([
@@ -17,32 +21,24 @@ GROUP_OPTIONS = sorted([
 ])
 TYPE_OPTIONS = ['Expense', 'Income', 'Investment']
 CASHFLOW_TYPE_OPTIONS = ['Operating Activities', 'Investing Activities', 'Financing Activities', 'Fixed Asset Activities']
-DISCRETIONARY_OPTIONS = ['Discretionary', 'Non-Discretionary']
+BUDGET_OPTIONS = ['Discretionary', 'Non-Discretionary']  # Changed from DISCRETIONARY_OPTIONS
 
-# Initial directory path
-initial_dir = 'C:\\Users\\chris\\Github\\Accountinator\\csv'
+# Path to the JSON file
+json_file_path = os.path.join(user_home_dir, 'Github', 'Accountinator', 'csv', 'Test of Budget and Projections Foundation_Transaction Ontology2.json')
 
-def choose_file():
-    filename = filedialog.askopenfilename(initialdir=initial_dir, title="Select a file", filetypes=(("JSON files", "*.json"), ("All files", "*.*")))
-    if filename:
-        return filename
-    else:
-        messagebox.showerror("Error", "No file selected.")
-        return None
-
-def load_json(filepath):
+def load_json():
     try:
-        with open(filepath, 'r') as file:
+        with open(json_file_path, 'r') as file:
             return json.load(file)
     except FileNotFoundError:
         return []
-    except json.JSONDecodeError:
-        messagebox.showerror("Error", "Invalid JSON format.")
-        return None
+    except json.JSONDecodeError as e:
+        messagebox.showerror("Error", f"Invalid JSON format at line {e.lineno}, column {e.colno}: {e.msg}")
+    return None
 
-def save_json(filepath, data):
+def save_json(data):
     try:
-        with open(filepath, 'w') as file:
+        with open(json_file_path, 'w') as file:
             json.dump(data, file, indent=4)
         messagebox.showinfo("Success", "Data updated successfully.")
     except Exception as e:
@@ -54,8 +50,8 @@ def entry_exists(entries, new_entry):
             return True
     return False
 
-def add_category(json_file_path):
-    data = load_json(json_file_path)
+def add_category():
+    data = load_json()
     if data is None:
         return
 
@@ -64,12 +60,12 @@ def add_category(json_file_path):
         "Group": group_var.get() if group_var.get() != 'None' else "",
         "Type": type_var.get(),
         "Cashflow Type": cashflow_type_var.get(),
-        "Discretionary": discretionary_var.get()
+        "Budget": budget_var.get()  # Changed from "Discretionary"
     }
 
     if not entry_exists(data, new_category):
         data.append(new_category)
-        save_json(json_file_path, data)
+        save_json(data)
         messagebox.showinfo("Success", "New category added.")
     else:
         messagebox.showwarning("Duplicate", "This category already exists.")
@@ -78,13 +74,12 @@ def add_category(json_file_path):
     group_var.set(GROUP_OPTIONS[0])
     type_var.set(TYPE_OPTIONS[0])
     cashflow_type_var.set(CASHFLOW_TYPE_OPTIONS[0])
-    discretionary_var.set(DISCRETIONARY_OPTIONS[0])
+    budget_var.set(BUDGET_OPTIONS[0])  # Changed from "discretionary_var.set"
 
-# Main window setup
 root = tk.Tk()
 root.title("Add New Category")
 
-# Define layout and widgets
+# Setup input fields and dropdown menus
 tk.Label(root, text="Category").grid(row=0, column=0)
 category_entry = ttk.Entry(root)
 category_entry.grid(row=0, column=1)
@@ -100,4 +95,17 @@ type_menu = ttk.Combobox(root, textvariable=type_var, values=TYPE_OPTIONS, state
 type_menu.grid(row=2, column=1)
 
 cashflow_type_var = tk.StringVar(value=CASHFLOW_TYPE_OPTIONS[0])
-tk.Label(root, text="Cashflow Type").grid
+tk.Label(root, text="Cashflow Type").grid(row=3, column=0)
+cashflow_type_menu = ttk.Combobox(root, textvariable=cashflow_type_var, values=CASHFLOW_TYPE_OPTIONS, state="readonly")
+cashflow_type_menu.grid(row=3, column=1)
+
+budget_var = tk.StringVar(value=BUDGET_OPTIONS[0])  # Changed from "discretionary_var"
+tk.Label(root, text="Budget").grid(row=4, column=0)  # Changed label "Discretionary" to "Budget"
+budget_menu = ttk.Combobox(root, textvariable=budget_var, values=BUDGET_OPTIONS, state="readonly")  # Changed from "discretionary_menu"
+budget_menu.grid(row=4, column=1) 
+
+# Add button
+add_button = ttk.Button(root, text="Add Category", command=add_category)
+add_button.grid(row=6, column=0, columnspan=2, pady=10)
+
+root.mainloop()
