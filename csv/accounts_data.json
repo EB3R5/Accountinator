@@ -1,6 +1,7 @@
 [
     {
-        "Date": "2024-02-04",
+        "":"",
+	"Date": "2024-02-04",
         "Time": "20:09:40",
         "Account": "CREDIT CARD",
         "Account #": "",
@@ -17,7 +18,8 @@
         "Updated Time": "13:51:31"
     },
     {
-        "Date": "2024-02-04",
+        "":"",
+	"Date": "2024-02-04",
         "Time": "20:09:40",
         "Account": "TOTAL CHECKING",
         "Account #": "",
@@ -34,7 +36,8 @@
         "Updated Time": "13:51:31"
     },
     {
-        "Date": "2024-02-04",
+        "":"",
+	"Date": "2024-02-04",
         "Time": "20:09:40",
         "Account": "Amazon Store Card",
         "Account #": "",

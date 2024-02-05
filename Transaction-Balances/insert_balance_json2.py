@@ -9,14 +9,14 @@ def insert_data_from_json(json_file_path):
              'https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/drive']
 
     # Add credentials to the account
-    creds = ServiceAccountCredentials.from_json_keyfile_name('path/to/your/service-account-file.json', scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name('C:\\Users\\chris\\Github\\Accountinator\\accountinator1.json', scope)
 
     # Authorize the client sheet
     gc = gspread.authorize(creds)
 
     # Open the spreadsheet and select the worksheet
-    sh = gc.open('Your Spreadsheet Name Here')
-    worksheet = sh.worksheet('Your Worksheet Name Here')
+    sh = gc.open('Account Activity Foundation')
+    worksheet = sh.worksheet('Balance History')
     
     # Read data from JSON file
     with open(json_file_path, 'r') as jsonfile:
@@ -24,7 +24,7 @@ def insert_data_from_json(json_file_path):
         
         for row in data:
             # Extract values in the order of columns in your Google Sheet
-            row_values = [
+            row_values = [""] + [
                 row.get("Date", ""),
                 row.get("Time", ""),
                 row.get("Account", ""),
@@ -46,7 +46,7 @@ def insert_data_from_json(json_file_path):
             print("Data inserted successfully for row:", row_values)
 
 # Path to your JSON file
-json_file_path = 'path/to/your/data.json'
+json_file_path = 'C:\\Users\\chris\\Github\\Accountinator\\csv\\accounts_data.json'
 
 # Call the function to insert data from JSON
 insert_data_from_json(json_file_path)
