@@ -1,0 +1,53 @@
+[
+    {
+        "Date": "2024-02-04",
+        "Time": "20:09:40",
+        "Account": "CREDIT CARD",
+        "Account #": "",
+        "Account ID": "644ebb6f645d6a00309e35fe",
+        "Institution": "",
+        "Balance": -22,
+        "Month": "",
+        "Week": "",
+        "Index": "",
+        "Type": "CREDIT",
+        "Class": "Liability",
+        "Updated": "",
+        "Updated Date": "2024-02-02",
+        "Updated Time": "13:51:31"
+    },
+    {
+        "Date": "2024-02-04",
+        "Time": "20:09:40",
+        "Account": "TOTAL CHECKING",
+        "Account #": "",
+        "Account ID": "644ebb6f645d6a00309e3612",
+        "Institution": "",
+        "Balance": -22,
+        "Month": "",
+        "Week": "",
+        "Index": "",
+        "Type": "CHECKING",
+        "Class": "Asset",
+        "Updated": "",
+        "Updated Date": "2024-02-02",
+        "Updated Time": "13:51:31"
+    },
+    {
+        "Date": "2024-02-04",
+        "Time": "20:09:40",
+        "Account": "Amazon Store Card",
+        "Account #": "",
+        "Account ID": "651b19b3fc4987002fb8dda6",
+        "Institution": "",
+        "Balance": -22,
+        "Month": "",
+        "Week": "",
+        "Index": "",
+        "Type": "CREDIT",
+        "Class": "Liability",
+        "Updated": "",
+        "Updated Date": "2024-02-02",
+        "Updated Time": "13:51:31"
+    }
+]

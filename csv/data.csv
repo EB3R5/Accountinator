@@ -1,14 +1,14 @@
 Date,Time,Account,Account #,Account ID,Institution,Balance,Month,Week,Index,Type,Class,Updated,Updated Date,Updated Time
-2024-02-02,17:50:49,CREDIT CARD,,644ebb6f645d6a00309e35fe,,22,,,,CREDIT,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,TOTAL CHECKING,,644ebb6f645d6a00309e3612,,22,,,,CHECKING,Asset,,2024-02-02,13:51:31
-2024-02-02,17:50:49,Amazon Store Card,,651b19b3fc4987002fb8dda6,,22,,,,CREDIT,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,Cell Phone,,manual:a85da725-5074-4f93-8c90-71c1cc76d5e,,22,,,,Checking,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,Medica,,manual:d809e5a1-b9db-4c29-9c73-afef20a06687,,22,,,,Checking,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,Progressive,,manual:cbdc07ef-d14e-493b-b7c2-e715c4651345,,22,,,,Checking,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,LES Bill,,manual:c11d9c44-46b2-4d14-bdcb-c9011e67a091,,22,,,,Checking,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,Psychologist,,manual:c2c6f282-11fb-463d-9900-4ef50a043d07,,22,,,,Checking,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,YMCA,,manual:1b1f72c3-0425-4e15-a07b-d4b5a95639a4,,22,,,,Checking,Liability,,2024-02-02,13:51:31
-2024-02-02,17:50:49,Car Registration,,manual:6a22812b-9517-47ce-b541-03cd2feacf11,,22,,,,Savings,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,CREDIT CARD,,644ebb6f645d6a00309e35fe,,22,,,,CREDIT,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,TOTAL CHECKING,,644ebb6f645d6a00309e3612,,-22,,,,CHECKING,Asset,,2024-02-02,13:51:31
+2024-02-04,20:21:49,Amazon Store Card,,651b19b3fc4987002fb8dda6,,22,,,,CREDIT,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,Cell Phone,,manual:a85da725-5074-4f93-8c90-71c1cc76d5e,,-22,,,,Checking,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,Medica,,manual:d809e5a1-b9db-4c29-9c73-afef20a06687,,22,,,,Checking,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,Progressive,,manual:cbdc07ef-d14e-493b-b7c2-e715c4651345,,-22,,,,Checking,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,LES Bill,,manual:c11d9c44-46b2-4d14-bdcb-c9011e67a091,,22,,,,Checking,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,Psychologist,,manual:c2c6f282-11fb-463d-9900-4ef50a043d07,,-22,,,,Checking,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,YMCA,,manual:1b1f72c3-0425-4e15-a07b-d4b5a95639a4,,-22,,,,Checking,Liability,,2024-02-02,13:51:31
+2024-02-04,20:21:49,Car Registration,,manual:6a22812b-9517-47ce-b541-03cd2feacf11,,22,,,,Savings,Liability,,2024-02-02,13:51:31
 ,,Urgent Care,,manual:c76ce005-a218-4233-97c5-f3f9e564611c,,,,,,Checking,Liability,,,
 ,,LIMA,,manual:f12db873-1e8f-420c-97bb-f00f8d87fb42,,,,,,Checking,Liability,,,
 ,,Apple Card,,manual:a85da725-5074-4f93-8c90-71c1cc76d5e3,,,,,,Checking,Liability,,,
