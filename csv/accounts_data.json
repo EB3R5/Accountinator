@@ -2,12 +2,12 @@
     {
         "": "",
         "Date": "2024-02-05",
-        "Time": "18:51:33",
+        "Time": "19:16:23",
         "Account": "CREDIT CARD",
         "Account #": "",
         "Account ID": "644ebb6f645d6a00309e35fe",
         "Institution": "",
-        "Balance": "-1000",
+        "Balance": "32424",
         "Month": "",
         "Week": "",
         "Index": "",
@@ -20,12 +20,12 @@
     {
         "": "",
         "Date": "2024-02-05",
-        "Time": "18:51:33",
+        "Time": "19:17:19",
         "Account": "TOTAL CHECKING",
         "Account #": "",
         "Account ID": "644ebb6f645d6a00309e3612",
         "Institution": "",
-        "Balance": "-129872348",
+        "Balance": "2",
         "Month": "",
         "Week": "",
         "Index": "",
@@ -38,12 +38,12 @@
     {
         "": "",
         "Date": "2024-02-05",
-        "Time": "18:51:33",
+        "Time": "19:16:23",
         "Account": "Amazon Store Card",
         "Account #": "",
         "Account ID": "651b19b3fc4987002fb8dda6",
         "Institution": "",
-        "Balance": "-2",
+        "Balance": "-24546356",
         "Month": "",
         "Week": "",
         "Index": "",
@@ -52,5 +52,53 @@
         "Updated": "",
         "Updated Date": "2024-02-02",
         "Updated Time": "13:51:31"
+    },
+    {
+        "Account": "2012 Subaru Outback",
+        "Balance": "-234",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Amazon Card",
+        "Balance": "-234",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Andrew McCurdy",
+        "Balance": "1344",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Apple Card",
+        "Balance": "-2343",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Car Registration ",
+        "Balance": "234324",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Cell Phone",
+        "Balance": "2343",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Colorado Tax",
+        "Balance": "22343",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
+    },
+    {
+        "Account": "Ignite Flight",
+        "Balance": "456544",
+        "Date": "2024-02-05",
+        "Time": "19:16:23"
     }
 ]
