@@ -1,0 +1,44 @@
+{
+    "0": {
+        "Category": "Groceries",
+        "Value": "500",
+        "Date": "2024-02-06",
+        "Month": "February"
+    },
+    "1": {
+        "Category": "Groceries",
+        "Value": "600",
+        "Date": "2024-02-06",
+        "Month": "February"
+    },
+    "2": {
+        "Category": "Insurance",
+        "Value": "200",
+        "Date": "2024-02-06",
+        "Month": "February"
+    },
+    "3": {
+        "Category": "Internet",
+        "Value": "100",
+        "Date": "2024-02-06",
+        "Month": "February"
+    },
+    "4": {
+        "Category": "Rent",
+        "Value": "960",
+        "Date": "2024-02-06",
+        "Month": "February"
+    },
+    "5": {
+        "Category": "Groceries",
+        "Value": "434",
+        "Date": "2024-02-06",
+        "Month": "February"
+    },
+    "6": {
+        "Category": "Rent",
+        "Value": "960",
+        "Date": "2024-02-06",
+        "Month": "February"
+    }
+}
