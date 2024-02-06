@@ -1,13 +1,13 @@
 [
     {
-        "":"",
-	"Date": "2024-02-04",
-        "Time": "20:09:40",
+        "": "",
+        "Date": "2024-02-05",
+        "Time": "18:06:25",
         "Account": "CREDIT CARD",
         "Account #": "",
         "Account ID": "644ebb6f645d6a00309e35fe",
         "Institution": "",
-        "Balance": -22,
+        "Balance": "-234",
         "Month": "",
         "Week": "",
         "Index": "",
@@ -18,8 +18,8 @@
         "Updated Time": "13:51:31"
     },
     {
-        "":"",
-	"Date": "2024-02-04",
+        "": "",
+        "Date": "2024-02-04",
         "Time": "20:09:40",
         "Account": "TOTAL CHECKING",
         "Account #": "",
@@ -36,8 +36,8 @@
         "Updated Time": "13:51:31"
     },
     {
-        "":"",
-	"Date": "2024-02-04",
+        "": "",
+        "Date": "2024-02-04",
         "Time": "20:09:40",
         "Account": "Amazon Store Card",
         "Account #": "",

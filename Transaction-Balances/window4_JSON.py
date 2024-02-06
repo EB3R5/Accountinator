@@ -4,8 +4,8 @@ import json
 import os
 from datetime import datetime
 
-# Define the path to your JSON file
-json_file_path = os.path.join('C:\\Users\\chris\\Github\\Accountinator\\json', 'data.json')
+# Use os.path.expanduser to get the home directory dynamically and construct the path
+json_file_path = os.path.join(os.path.expanduser('~'), 'Github', 'Accountinator', 'csv', 'accounts_data.json')
 
 # Account names statically listed
 accounts = [

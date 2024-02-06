@@ -1,15 +1,17 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import json
+import os
 
-# Function to insert data from JSON into Google Sheet
 def insert_data_from_json(json_file_path):
-    # Define the scope
     scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/spreadsheets',
              'https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/drive']
 
+    # Dynamically construct the path to the credentials file
+    credentials_file_path = os.path.join(os.path.expanduser('~'), 'Github', 'Accountinator', 'accountinator1.json')
+
     # Add credentials to the account
-    creds = ServiceAccountCredentials.from_json_keyfile_name('C:\\Users\\chris\\Github\\Accountinator\\accountinator1.json', scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name(credentials_file_path, scope)
 
     # Authorize the client sheet
     gc = gspread.authorize(creds)
@@ -23,7 +25,6 @@ def insert_data_from_json(json_file_path):
         data = json.load(jsonfile)
         
         for row in data:
-            # Extract values in the order of columns in your Google Sheet
             row_values = [""] + [
                 row.get("Date", ""),
                 row.get("Time", ""),
@@ -31,7 +32,7 @@ def insert_data_from_json(json_file_path):
                 row.get("Account #", ""),
                 row.get("Account ID", ""),
                 row.get("Institution", ""),
-                str(row.get("Balance", "")),  # Convert numerical values to string
+                str(row.get("Balance", "")),  # Convert numerical values to string if necessary
                 row.get("Month", ""),
                 row.get("Week", ""),
                 row.get("Index", ""),
@@ -41,12 +42,11 @@ def insert_data_from_json(json_file_path):
                 row.get("Updated Date", ""),
                 row.get("Updated Time", "")
             ]
-            # Insert the row data
-            worksheet.append_row(row_values)  # Use append_row for adding to the end of the sheet
+            worksheet.append_row(row_values)
             print("Data inserted successfully for row:", row_values)
 
-# Path to your JSON file
-json_file_path = 'C:\\Users\\chris\\Github\\Accountinator\\csv\\accounts_data.json'
+# Dynamically construct the path to your JSON file
+json_file_path = os.path.join(os.path.expanduser('~'), 'Github', 'Accountinator', 'csv', 'accounts_data.json')
 
 # Call the function to insert data from JSON
 insert_data_from_json(json_file_path)
