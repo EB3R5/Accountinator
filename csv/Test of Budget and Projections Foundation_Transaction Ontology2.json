@@ -1103,5 +1103,12 @@
         "Type": "Expense",
         "Cashflow Type": "Operating Activities",
         "Budget": "Discretionary"
+    },
+    {
+        "Category": "Car Licensing",
+        "Group": "Car",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Non-Discretionary"
     }
 ]

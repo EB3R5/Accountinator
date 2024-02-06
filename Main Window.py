@@ -17,7 +17,7 @@ def update_categories():
     subprocess.run(["python", script_path], check=True)
 
 def insert_categories():
-    script_path = os.path.expanduser(r'~\Github\Accountinator\Budget-Projections\compare_and_update_3.py')
+    script_path = os.path.expanduser(r'~\Github\Accountinator\Budget-Projections\\COmpare and Update 3.py')
     subprocess.run(["python", script_path], check=True)
 
 # Create the main window
