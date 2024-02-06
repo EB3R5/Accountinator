@@ -9,16 +9,16 @@ import pandas as pd
 # Function to generate a unique filename if the file already exists
 def generate_unique_filename(base_path, filename, extension):
     # Check if the file exists
-    if not os.path.exists(f"{base_path}\\{filename}{extension}"):
-        return f"{base_path}\\{filename}{extension}"
+    if not os.path.exists(os.path.join(base_path, f"{filename}{extension}")):
+        return os.path.join(base_path, f"{filename}{extension}")
     else:
         # Find all files in the directory with the base filename
-        existing_files = glob.glob(f"{base_path}\\{filename}*{extension}")
-        existing_indices = [int(f.split(filename)[-1].split(extension)[0]) for f in existing_files if f.split(filename)[-1].split(extension)[0].isdigit()]
+        existing_files = glob.glob(os.path.join(base_path, f"{filename}*{extension}"))
+        existing_indices = [int(f.split(os.sep + filename)[-1].split(extension)[0]) for f in existing_files if f.split(os.sep + filename)[-1].split(extension)[0].isdigit()]
         
         # Generate a new filename with an appended number
         new_index = 1 if not existing_indices else max(existing_indices) + 1
-        return f"{base_path}\\{filename}{new_index}{extension}"
+        return os.path.join(base_path, f"{filename}{new_index}{extension}")
 
 # Function to get user input for spreadsheet title and sheet name
 def get_user_input():
@@ -33,8 +33,16 @@ def get_user_input():
 # Setup
 scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
          "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
-credentials_path = 'C:\\Users\\chris\\Github\\Accountinator\\accountinator1.json'
-base_path = 'C:\\Users\\chris\\Github\\Accountinator\\csv'
+
+# Dynamically construct the paths
+user_home_dir = os.path.expanduser('~')
+credentials_path = os.path.join(user_home_dir, 'Github', 'Accountinator', 'accountinator1.json')
+base_path = os.path.join(user_home_dir, 'Github', 'Accountinator', 'csv')
+
+# Ensure the credentials file exists
+if not os.path.exists(credentials_path):
+    print(f"Credentials file not found at {credentials_path}")
+    exit(1)
 
 # Ask user for spreadsheet title and worksheet name
 spreadsheet_title, worksheet_name = get_user_input()
@@ -63,13 +71,7 @@ df.to_csv(csv_file_path, index=False)
 print(f"Data saved to CSV at {csv_file_path}")
 
 # Save the DataFrame to JSON with the desired format
-json_data = df.to_json(orient='records')
+# Save the DataFrame to JSON with 'index' orientation
+df.to_json(json_file_path, orient='index', indent=4)
+print(f"Data saved to JSON in 'index' orientation at {json_file_path}")
 
-# Wrap the JSON data with [] to create an array
-json_array = f"[{json_data}]"
-
-# Save the JSON array to a file
-with open(json_file_path, 'w') as json_file:
-    json_file.write(json_array)
-
-print(f"Data saved to JSON at {json_file_path}")

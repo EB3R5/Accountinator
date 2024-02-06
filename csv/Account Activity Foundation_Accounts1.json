@@ -1,0 +1,702 @@
+{
+    "0":{
+        "Account ID":"644ebb6f645d6a00309e35fe",
+        "Account":"CREDIT CARD",
+        "Age (Last Date)":"2\/5\/2024",
+        "Time":"6:06:25 PM",
+        "Amount":-234.0,
+        "Class":"Liability",
+        "Type":"CREDIT",
+        "Index":""
+    },
+    "1":{
+        "Account ID":"644ebb6f645d6a00309e3612",
+        "Account":"TOTAL CHECKING",
+        "Age (Last Date)":"2\/4\/2024",
+        "Time":"8:51:00 PM",
+        "Amount":19.29,
+        "Class":"Asset",
+        "Type":"CHECKING",
+        "Index":""
+    },
+    "2":{
+        "Account ID":"651b19b3fc4987002fb8dda6",
+        "Account":"Amazon Store Card",
+        "Age (Last Date)":"2\/4\/2024",
+        "Time":"8:09:40 PM",
+        "Amount":-22.0,
+        "Class":"Liability",
+        "Type":"CREDIT",
+        "Index":""
+    },
+    "3":{
+        "Account ID":"manual:a85da725-5074-4f93-8c90-71c1cc76d5e",
+        "Account":"Cell Phone",
+        "Age (Last Date)":"12\/22\/2023",
+        "Time":"12:42:00 PM",
+        "Amount":143.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":100
+    },
+    "4":{
+        "Account ID":"manual:d809e5a1-b9db-4c29-9c73-afef20a06687",
+        "Account":"Medica",
+        "Age (Last Date)":"12\/22\/2023",
+        "Time":"12:40:00 PM",
+        "Amount":175.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":100
+    },
+    "5":{
+        "Account ID":"manual:cbdc07ef-d14e-493b-b7c2-e715c4651345",
+        "Account":"Progressive",
+        "Age (Last Date)":"12\/22\/2023",
+        "Time":"12:39:00 PM",
+        "Amount":60.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":100
+    },
+    "6":{
+        "Account ID":"manual:c11d9c44-46b2-4d14-bdcb-c9011e67a091",
+        "Account":"LES Bill",
+        "Age (Last Date)":"12\/22\/2023",
+        "Time":"12:39:00 PM",
+        "Amount":99.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":100
+    },
+    "7":{
+        "Account ID":"manual:c2c6f282-11fb-463d-9900-4ef50a043d07",
+        "Account":"Psychologist",
+        "Age (Last Date)":"12\/22\/2023",
+        "Time":"12:38:00 PM",
+        "Amount":234.69,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":100
+    },
+    "8":{
+        "Account ID":"manual:1b1f72c3-0425-4e15-a07b-d4b5a95639a4",
+        "Account":"YMCA",
+        "Age (Last Date)":"11\/1\/2023",
+        "Time":"8:00:00 PM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":""
+    },
+    "9":{
+        "Account ID":"manual:6a22812b-9517-47ce-b541-03cd2feacf11",
+        "Account":"Car Registration ",
+        "Age (Last Date)":"11\/1\/2023",
+        "Time":"8:00:00 PM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Savings",
+        "Index":""
+    },
+    "10":{
+        "Account ID":"manual:c76ce005-a218-4233-97c5-f3f9e564611c",
+        "Account":"Urgent Care",
+        "Age (Last Date)":"11\/1\/2023",
+        "Time":"8:00:00 PM",
+        "Amount":180.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":""
+    },
+    "11":{
+        "Account ID":"manual:f12db873-1e8f-420c-97bb-f00f8d87fb42",
+        "Account":"LIMA",
+        "Age (Last Date)":"11\/1\/2023",
+        "Time":"8:00:00 PM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":""
+    },
+    "12":{
+        "Account ID":"manual:a85da725-5074-4f93-8c90-71c1cc76d5e3",
+        "Account":"Apple Card",
+        "Age (Last Date)":"11\/1\/2023",
+        "Time":"8:00:00 PM",
+        "Amount":4.38,
+        "Class":"Liability",
+        "Type":"Checking",
+        "Index":100
+    },
+    "13":{
+        "Account ID":"64909ad89e672300300bff7c",
+        "Account":"Venmo Bank Account",
+        "Age (Last Date)":"10\/2\/2023",
+        "Time":"7:33:00 PM",
+        "Amount":0.0,
+        "Class":"Asset",
+        "Type":"OTHER",
+        "Index":""
+    },
+    "14":{
+        "Account ID":"manual:64987a6e-7908-4d7b-ba7c-8652ee714691",
+        "Account":"Amazon Card",
+        "Age (Last Date)":"7\/17\/2023",
+        "Time":"12:29:00 PM",
+        "Amount":723.83,
+        "Class":"Liability",
+        "Type":"Credit",
+        "Index":""
+    },
+    "15":{
+        "Account ID":"manual:2b8c925e-803b-4dfd-877b-a489dff76617",
+        "Account":"Ignite Flight",
+        "Age (Last Date)":"7\/5\/2023",
+        "Time":"12:12:00 PM",
+        "Amount":6000.0,
+        "Class":"Asset",
+        "Type":"Other",
+        "Index":""
+    },
+    "16":{
+        "Account ID":"5f5a43f69e1b8d002950a521",
+        "Account":"RBC",
+        "Age (Last Date)":"9\/3\/2022",
+        "Time":"3:02:00 AM",
+        "Amount":639970.92,
+        "Class":"Asset",
+        "Type":"OTHER",
+        "Index":""
+    },
+    "17":{
+        "Account ID":"manual:5132e20e-ce31-4762-96f1-513244f3d1b4",
+        "Account":"VW CC",
+        "Age (Last Date)":"9\/20\/2020",
+        "Time":"10:41:00 AM",
+        "Amount":0.0,
+        "Class":"Asset",
+        "Type":"Other",
+        "Index":""
+    },
+    "18":{
+        "Account ID":"manual:cbd66989-a9af-4afe-81fb-819977e6294d",
+        "Account":"2012 Subaru Outback",
+        "Age (Last Date)":"9\/19\/2020",
+        "Time":"6:41:00 PM",
+        "Amount":15000.0,
+        "Class":"Asset",
+        "Type":"Other",
+        "Index":""
+    },
+    "19":{
+        "Account ID":"5cace0a676f86600200de1a4",
+        "Account":"RBC",
+        "Age (Last Date)":"5\/19\/2020",
+        "Time":"6:01:00 PM",
+        "Amount":0.0,
+        "Class":"Asset",
+        "Type":"OTHER",
+        "Index":""
+    },
+    "20":{
+        "Account ID":"manual:7f8bd02a-c3fa-4063-baf5-7c073df3624d",
+        "Account":"VW Valve Repair",
+        "Age (Last Date)":"2\/1\/2020",
+        "Time":"10:28:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "21":{
+        "Account ID":"manual:ef8a2556-dd31-4a42-9d7b-f3859028ddf8",
+        "Account":"Water Pump VW CC",
+        "Age (Last Date)":"2\/1\/2020",
+        "Time":"10:28:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "22":{
+        "Account ID":"manual:51d25a4c-58cc-43b5-a7af-e80b2e232944",
+        "Account":"Test",
+        "Age (Last Date)":"1\/19\/2020",
+        "Time":"12:04:00 PM",
+        "Amount":0.0,
+        "Class":"Asset",
+        "Type":"Other",
+        "Index":""
+    },
+    "23":{
+        "Account ID":"manual:67b65354-cab2-4257-be78-731b426f63d5",
+        "Account":"Sequoia Fund",
+        "Age (Last Date)":"1\/19\/2020",
+        "Time":"12:01:00 PM",
+        "Amount":30040.86,
+        "Class":"Asset",
+        "Type":"Investment",
+        "Index":""
+    },
+    "24":{
+        "Account ID":"manual:9ed9f914-16c1-4929-aed4-203e27b3520b",
+        "Account":"Pine Lake Behavioral",
+        "Age (Last Date)":"1\/19\/2020",
+        "Time":"11:15:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "25":{
+        "Account ID":"manual:faeb0fc6-20a4-4fa2-a3ff-aff32daa8e73",
+        "Account":"Dr. Miller Family Therapy",
+        "Age (Last Date)":"1\/19\/2020",
+        "Time":"11:14:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "26":{
+        "Account ID":"manual:2b1cbc5d-2636-4cce-8850-a685b0ed580b",
+        "Account":"Dr. Meckel Bill",
+        "Age (Last Date)":"1\/19\/2020",
+        "Time":"11:14:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "27":{
+        "Account ID":"manual:8220ab0d-d673-4b8a-a2f3-6e62440bed7b",
+        "Account":"Andrew McCurdy",
+        "Age (Last Date)":"1\/19\/2020",
+        "Time":"11:11:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "28":{
+        "Account ID":"manual:94e5f30f-8b31-46c0-9ac5-abb33ebe9642",
+        "Account":"Colorado Tax",
+        "Age (Last Date)":"12\/19\/2019",
+        "Time":"11:12:00 AM",
+        "Amount":0.0,
+        "Class":"Liability",
+        "Type":"Other",
+        "Index":""
+    },
+    "29":{
+        "Account ID":"5cab8a6f555302001f1be73b",
+        "Account":"Robinhood",
+        "Age (Last Date)":"5\/2\/2019",
+        "Time":"8:46:00 PM",
+        "Amount":0.0,
+        "Class":"Asset",
+        "Type":"BROKERAGE_CASH",
+        "Index":""
+    },
+    "30":{
+        "Account ID":"5cacdb6876f86600200de0ef",
+        "Account":"Venmo",
+        "Age (Last Date)":"4\/9\/2019",
+        "Time":"6:25:00 PM",
+        "Amount":0.0,
+        "Class":"Asset",
+        "Type":"OTHER",
+        "Index":""
+    },
+    "31":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "32":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "33":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "34":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "35":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "36":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "37":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "38":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "39":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "40":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "41":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "42":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "43":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "44":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "45":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "46":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "47":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "48":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "49":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "50":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "51":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "52":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "53":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "54":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "55":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "56":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "57":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "58":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "59":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "60":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "61":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "62":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "63":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "64":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "65":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "66":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "67":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "68":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    },
+    "69":{
+        "Account ID":"",
+        "Account":"",
+        "Age (Last Date)":"12\/30\/1899",
+        "Time":"12:00:00 AM",
+        "Amount":0.0,
+        "Class":"",
+        "Type":"",
+        "Index":""
+    }
+}
