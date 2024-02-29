@@ -85,9 +85,9 @@
     },
     {
         "Account": "Cell Phone",
-        "Balance": "2343",
-        "Date": "2024-02-05",
-        "Time": "19:16:23"
+        "Balance": "136",
+        "Date": "2024-02-09",
+        "Time": "07:11:57"
     },
     {
         "Account": "Colorado Tax",
@@ -100,5 +100,17 @@
         "Balance": "456544",
         "Date": "2024-02-05",
         "Time": "19:16:23"
+    },
+    {
+        "Account": "LES Bill",
+        "Balance": "245.21",
+        "Date": "2024-02-09",
+        "Time": "07:11:16"
+    },
+    {
+        "Account": "Medica",
+        "Balance": "90",
+        "Date": "2024-02-28",
+        "Time": "08:35:24"
     }
 ]

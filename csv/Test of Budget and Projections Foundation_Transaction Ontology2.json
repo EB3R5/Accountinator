@@ -1110,5 +1110,12 @@
         "Type": "Expense",
         "Cashflow Type": "Operating Activities",
         "Budget": "Non-Discretionary"
+    },
+    {
+        "Category": "Overdraft Fee",
+        "Group": "Legal Fee",
+        "Type": "Expense",
+        "Cashflow Type": "Operating Activities",
+        "Budget": "Discretionary"
     }
 ]
