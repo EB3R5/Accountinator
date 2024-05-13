@@ -4,7 +4,7 @@ from tkinter import ttk
 import subprocess
 
 def balance_update():
-    script_path = os.path.expanduser('~/Documents/Github/Accountinator/Transaction-Balances/window6_json.py')
+    script_path = os.path.expanduser('~/Documents/Github/Accountinator/Transaction-Balances/window6_JSON.py')
     try:
         subprocess.run(["python3", script_path], check=True)
     except subprocess.CalledProcessError as e:

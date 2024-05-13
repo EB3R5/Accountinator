@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 def load_accounts_from_json():
-    json_file_path = os.path.join(os.path.expanduser('~'), 'Github', 'Accountinator', 'csv', 'Account Activity Foundation_Accounts1.json')
+    json_file_path = os.path.join(os.path.expanduser('~'), 'Documents', 'Github', 'Accountinator', 'csv', 'Account Activity Foundation_Accounts1.json')
     try:
         with open(json_file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
@@ -28,7 +28,7 @@ def load_accounts_from_json():
         return []
 
 def update_balances(account_balances):
-    json_file_path = os.path.join(os.path.expanduser('~'), 'Github', 'Accountinator', 'csv', 'accounts_data.json')
+    json_file_path = os.path.join(os.path.expanduser('~'), 'Documents', 'Github', 'Accountinator', 'csv', 'accounts_data.json')
     try:
         # Assuming we're appending/updating the file, not overwriting
         data = []
